@@ -1,0 +1,15 @@
+C:\Users\oligo\Desktop\Finish task\finishtask\bin\Debug\net6.0\finishtask.exe
+C:\Users\oligo\Desktop\Finish task\finishtask\bin\Debug\net6.0\finishtask.deps.json
+C:\Users\oligo\Desktop\Finish task\finishtask\bin\Debug\net6.0\finishtask.runtimeconfig.json
+C:\Users\oligo\Desktop\Finish task\finishtask\bin\Debug\net6.0\finishtask.dll
+C:\Users\oligo\Desktop\Finish task\finishtask\bin\Debug\net6.0\finishtask.pdb
+C:\Users\oligo\Desktop\Finish task\finishtask\obj\Debug\net6.0\finishtask.csproj.AssemblyReference.cache
+C:\Users\oligo\Desktop\Finish task\finishtask\obj\Debug\net6.0\finishtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oligo\Desktop\Finish task\finishtask\obj\Debug\net6.0\finishtask.AssemblyInfoInputs.cache
+C:\Users\oligo\Desktop\Finish task\finishtask\obj\Debug\net6.0\finishtask.AssemblyInfo.cs
+C:\Users\oligo\Desktop\Finish task\finishtask\obj\Debug\net6.0\finishtask.csproj.CoreCompileInputs.cache
+C:\Users\oligo\Desktop\Finish task\finishtask\obj\Debug\net6.0\finishtask.dll
+C:\Users\oligo\Desktop\Finish task\finishtask\obj\Debug\net6.0\refint\finishtask.dll
+C:\Users\oligo\Desktop\Finish task\finishtask\obj\Debug\net6.0\finishtask.pdb
+C:\Users\oligo\Desktop\Finish task\finishtask\obj\Debug\net6.0\finishtask.genruntimeconfig.cache
+C:\Users\oligo\Desktop\Finish task\finishtask\obj\Debug\net6.0\ref\finishtask.dll
